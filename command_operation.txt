@@ -1,0 +1,6 @@
+previous , back location,
+close , close program,
+voice , voice files in the location,
+remove , remove files or folders,
+update , rename files or folders,
+
